@@ -17,7 +17,6 @@
 ```
 étudiante en génie logiciel à l'USTHB
 je fais des sites, des apps, et des montages vidéo
-parfois les trois en même temps
 ```
 
 - 🎓 **ISIL** — Ingénierie des Systèmes Informatiques et Logiciels
@@ -49,7 +48,7 @@ parfois les trois en même temps
 
 [![Gmail](https://img.shields.io/badge/meriemtobdji18@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meriemtobdji18@gmail.com)
 [![Discord](https://img.shields.io/badge/meriem.hadil-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1372682352135897198)
-[![Portfolio](https://img.shields.io/badge/Mon%20Portfolio-%23C9B8E8.svg?style=for-the-badge&logo=github&logoColor=black)](https://tobdji-meriem.github.io)
+
 
 </div>
 
