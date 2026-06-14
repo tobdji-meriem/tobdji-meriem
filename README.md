@@ -19,7 +19,7 @@
 je fais des sites, des apps, et des montages vidéo
 ```
 
-- 🎓 **ISIL** — Ingénierie des Systèmes Informatiques et Logiciels
+- 🎓 **ISIL** — Ingénierie des Systèmes d'information et Logiciels
 - 🏛️ Université **Houari Boumédiène**, Alger 🇩🇿
 - 💻 Passionnée par le **développement web & mobile**
 - 🎬 Créatrice de **montages vidéo**
